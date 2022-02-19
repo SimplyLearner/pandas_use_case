@@ -1,0 +1,101 @@
+Date,CustomerID,PaymentMode,ShippingMode,Gender,ShippingTime
+16/08/20,10471,Creditcard,Economy,Female,17.0
+2/8/2020 0:00,10472,Ewallet,Mail,Unspecified,12.0
+8/8/2020 0:00,10473,Prepaid Card,Mail,,10.0
+,10474,Directdeposit,Normal,Female,2133.0
+24/08/20,10475,,Economy,Male,2133.0
+28/08/20,10476,Direct Deposit,Mail,Female,20.0
+8/8/2020 0:00,10477,Direct Deposit,Mail,Unspecified,14.0
+8/8/2020 0:00,10478,Direct Deposit,Mail,Unspecified,18.0
+1/8/2020 0:00,10479,Direct Deposit,Express,Male,
+16/08/20,10480,Prepaid Card,Express,Female,19.0
+21/08/20,10481,,Economy,Female,17.0
+18/08/20,10482,Mobile Payment,Mail,Female,10.0
+11/8/2020 0:00,10483,Cash,Express,Unspecified,6.0
+2/8/2020 0:00,10484,Mobile Payment,Express,Male,18.0
+20/08/20,10485,Mobile,Mail,Female,7.0
+6/8/2020 0:00,10486,Direct Deposit,,Male,19.0
+17/08/20,10487,Credit Card,Economy,Female,19.0
+17/08/20,10488,Ewallet,Mail,Female,10.0
+17/08/20,10489,Direct Deposit,Economy,Unspecified,17.0
+14/08/20,10490,,Economy,Female,17.0
+5/8/2020 0:00,10491,Prepaid Card,Economy,Female,20.0
+13/08/20,10492,Directdeposit,Express,Unspecified,19.0
+4/8/2020 0:00,10493,Ewallet,Normal,Unspecified,17.0
+3/8/2020 0:00,10494,Credit Card,Mail,Male,20.0
+7/8/2020 0:00,10495,Ewallet,,Unspecified,14.0
+8/8/2020 0:00,10496,Prepaid Card,Express,Male,20.0
+6/8/2020 0:00,10497,,Express,Male,11.0
+19/08/20,10498,Direct Deposit,Express,Unspecified,213.0
+30/08/20,10499,Cash,Economy,,17.0
+2/8/2020 0:00,10500,Direct Deposit,Mail,,5.0
+31/08/20,10501,Creditcard,Normal,,9.0
+30/08/20,10502,Ewallet,Normal,Female,16.0
+30/08/20,10503,Prepaid Card,Express,,8.0
+24/08/20,10504,Ewallet,Normal,Female,14.0
+29/08/20,10505,Prepaid Card,Economy,Male,15.0
+7/8/2020 0:00,10506,Ewallet,Economy,Female,13.0
+11/8/2020 0:00,10507,Direct Deposit,Economy,Male,19.0
+16/08/20,10508,Mobile,,Female,12.0
+29/08/20,10509,Creditcard,Express,Unspecified,9.0
+16/08/20,10510,Prepaid Card,Mail,Female,20.0
+13/08/20,10511,Mobile,Economy,Unspecified,9.0
+2/8/2020 0:00,10512,Creditcard,Economy,Male,20.0
+2/8/2020 0:00,10513,Mobile Payment,Mail,Male,17.0
+14/08/20,10514,Credit Card,Express,Unspecified,1321.0
+9/8/2020 0:00,10515,,Express,Male,16.0
+25/08/20,10516,,Normal,Male,14.0
+29/08/20,10517,Credit Card,Normal,Female,7.0
+21/08/20,10518,Creditcard,Normal,Female,14.0
+20/08/20,10519,Ewallet,Normal,Unspecified,18.0
+6/8/2020 0:00,10520,Ewallet,Normal,Unspecified,7.0
+4/8/2020 0:00,10521,Directdeposit,Normal,Unspecified,10.0
+12/8/2020 0:00,10522,Credit Card,Mail,Female,9.0
+30/08/20,10523,Mobile Payment,Express,Unspecified,10.0
+26/08/20,10524,Direct Deposit,Normal,Male,5.0
+30/08/20,10525,Direct Deposit,Economy,Female,12.0
+5/8/2020 0:00,10526,Direct Deposit,Normal,Unspecified,10.0
+1/8/2020 0:00,10527,Creditcard,Mail,Male,11.0
+12/8/2020 0:00,10528,Creditcard,Economy,Unspecified,16.0
+2/8/2020 0:00,10529,Creditcard,Mail,Unspecified,8.0
+17/08/20,10530,Cash,Economy,Female,3113.0
+30/08/20,10531,Direct Deposit,Normal,Unspecified,18.0
+21/08/20,10532,Credit Card,Economy,Female,8.0
+4/8/2020 0:00,10533,Prepaid Card,Normal,Unspecified,10.0
+1/8/2020 0:00,10534,Creditcard,Normal,Male,9.0
+8/8/2020 0:00,10535,Cash,Mail,Male,8.0
+31/08/20,10536,Prepaid Card,Express,Male,10.0
+18/08/20,10537,Cash,Normal,Male,6.0
+12/8/2020 0:00,10538,Direct Deposit,Express,Female,16.0
+2/8/2020 0:00,10539,Credit Card,Normal,Female,12.0
+12/8/2020 0:00,10540,Directdeposit,Express,Male,14.0
+24/08/20,10541,Creditcard,Economy,Unspecified,11.0
+20/08/20,10542,Cash,Mail,Male,3132.0
+30/08/20,10543,Mobile,Mail,Female,19.0
+28/08/20,10544,Ewallet,Mail,Male,14.0
+25/08/20,10545,Credit Card,Express,Female,20.0
+6/8/2020 0:00,10546,Ewallet,Express,Male,18.0
+28/08/20,10547,Direct Deposit,Express,Unspecified,12.0
+26/08/20,10548,Creditcard,Mail,Male,19.0
+18/08/20,10549,Prepaid Card,Mail,Unspecified,10.0
+18/08/20,10550,Credit Card,Normal,Unspecified,13.0
+21/08/20,10551,Directdeposit,Normal,Male,16.0
+14/08/20,10552,Cash,Express,Male,7.0
+23/08/20,10553,Credit Card,Express,Unspecified,5.0
+16/08/20,10554,Direct Deposit,Economy,Male,11.0
+23/08/20,10555,Prepaid Card,Mail,Female,14.0
+8/8/2020 0:00,10556,Prepaid Card,Normal,Male,14.0
+8/8/2020 0:00,10557,Ewallet,Express,Female,7.0
+31/08/20,10558,Credit Card,Normal,Unspecified,11.0
+31/08/20,10558,Credit Card,Normal,Unspecified,11.0
+31/08/20,10558,Credit Card,Normal,Unspecified,11.0
+23/08/20,10561,Directdeposit,Mail,Male,18.0
+3/8/2020 0:00,10562,Creditcard,Express,Male,8.0
+8/8/2020 0:00,10563,Credit Card,Mail,Male,9.0
+18/08/20,10564,Creditcard,Normal,Female,5.0
+23/08/20,10565,Cash,Mail,Male,7.0
+4/8/2020 0:00,10566,Prepaid Card,Express,Female,5.0
+16/08/20,10567,Mobile,Normal,Unspecified,13.0
+25/08/20,10568,Credit Card,Normal,Female,10.0
+26/08/20,10569,Directdeposit,Economy,Male,-2131.0
+29/08/20,10570,Credit Card,Mail,Unspecified,6.0

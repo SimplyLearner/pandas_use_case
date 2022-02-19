@@ -1,0 +1,101 @@
+,Date,CustomerID,PaymentMode,ShippingMode,Gender,ShippingTime,Price,ProductType,Rating,Total_Ratings,PaymentMode
+0,16/08/20,10471,Creditcard,Economy,Female,17.0,₹ 675036.2138626401,coates,1 start,8736,Creditcard
+1,2/8/2020 0:00,10472,Ewallet,Mail,Unspecified,12.0,"€ 2,315.53",dresses ,2 star,8547,Ewallet
+2,8/8/2020 0:00,10473,Prepaid Card,Mail,,10.0,₹ 611426.29122378,,2 star,9833,Prepaid Card
+3,,10474,Directdeposit,Normal,Female,2133.0,₹ 210869.48083470002,dresses ,2star,7591,Directdeposit
+4,24/08/20,10475,,Economy,Male,2133.0,₹ 679422.2811434,pantas,1 start,5131,
+5,28/08/20,10476,Direct Deposit,Mail,Female,20.0,,Coats/Jackets,2 star,5347,Direct Deposit
+6,8/8/2020 0:00,10477,Direct Deposit,Mail,Unspecified,14.0,£ 6610.077565000001,coates,5 star,9406,Direct Deposit
+7,8/8/2020 0:00,10478,Direct Deposit,Mail,Unspecified,18.0,"$4,287.06 ",Jeans,,8554,Direct Deposit
+8,1/8/2020 0:00,10479,Direct Deposit,Express,Male,,£ 3010.212198,pantas,4 star,9630,Direct Deposit
+9,16/08/20,10480,Prepaid Card,Express,Female,19.0,£ 4032878.5368307503,Pants,1 start,6914,Prepaid Card
+10,21/08/20,10481,,Economy,Female,17.0,"€ 3,702.54",dresses ,2star,7750,
+11,18/08/20,10482,Mobile Payment,Mail,Female,10.0,"€ 6,580.20",pantas,5 star,7816,Mobile Payment
+12,11/8/2020 0:00,10483,Cash,Express,Unspecified,6.0,"$6,756.94 ",Cardigan,4 star,7021,Cash
+13,2/8/2020 0:00,10484,Mobile Payment,Express,Male,18.0,"$3,148.65 ",Coats/Jackets,,5024,Mobile Payment
+14,20/08/20,10485,Mobile,Mail,Female,7.0,"$9,743.11 ",dresses ,1 start,9030,Mobile
+15,6/8/2020 0:00,10486,Direct Deposit,,Male,19.0,£ 2190.66134375,coates,1 start,6701,Direct Deposit
+16,17/08/20,10487,Credit Card,Economy,Female,19.0,£ 25773831.320659,Pants,2star,5783,Credit Card
+17,17/08/20,10488,Ewallet,Mail,Female,10.0,"$1,991.18 ",Dresses,5 star,7659,Ewallet
+18,17/08/20,10489,Direct Deposit,Economy,Unspecified,17.0,"€ 1,749.40",Shirts/Tops,4 star,7273,Direct Deposit
+19,14/08/20,10490,,Economy,Female,17.0,"$6,221.36 ",Shirts/Tops,,9296,
+20,5/8/2020 0:00,10491,Prepaid Card,Economy,Female,20.0,"€ 1,514.11",Coats/Jackets,1 start,9714,Prepaid Card
+21,13/08/20,10492,Directdeposit,Express,Unspecified,19.0,£ 3854.8617452500007,Dresses,4 star,9170,Directdeposit
+22,4/8/2020 0:00,10493,Ewallet,Normal,Unspecified,17.0,₹ 634808.1963701401,Pants,4 star,6943,Ewallet
+23,3/8/2020 0:00,10494,Credit Card,Mail,Male,20.0,₹ 596893.42988816,dresses ,2 star,5668,Credit Card
+24,7/8/2020 0:00,10495,Ewallet,,Unspecified,14.0,£ 3215.41893075,Shirts/Tops,4 star,5077,Ewallet
+25,8/8/2020 0:00,10496,Prepaid Card,Express,Male,20.0,£ 4564.22450475,Hats,4 star,6594,Prepaid Card
+26,6/8/2020 0:00,10497,,Express,Male,11.0,"€ 5,813.36",dresses ,1 start,7605,
+27,19/08/20,10498,Direct Deposit,Express,Unspecified,213.0,₹ 635118.07344224,Coats/Jackets,3 star,9297,Direct Deposit
+28,30/08/20,10499,Cash,Economy,,17.0,₹ 176647.10500702,Pants,4 star,7160,Cash
+29,2/8/2020 0:00,10500,Direct Deposit,Mail,,5.0,"$21,312,321.13 ",Jeans,1 start,9410,Direct Deposit
+30,31/08/20,10501,Creditcard,Normal,,9.0,₹ 581033.69733056,pantas,4 star,6569,Creditcard
+31,30/08/20,10502,Ewallet,Normal,Female,16.0,"€ 5,242.22",,3 star,8823,Ewallet
+32,30/08/20,10503,Prepaid Card,Express,,8.0,₹ 110529.79150523999,,4 star,8117,Prepaid Card
+33,24/08/20,10504,Ewallet,Normal,Female,14.0,"€ 5,546.63",,1 start,5037,Ewallet
+34,29/08/20,10505,Prepaid Card,Economy,Male,15.0,"$1,024.64 ",Shirts/Tops,3 star,5757,Prepaid Card
+35,7/8/2020 0:00,10506,Ewallet,Economy,Female,13.0,"$4,313.74 ",dresses ,2star,7858,Ewallet
+36,11/8/2020 0:00,10507,Direct Deposit,Economy,Male,19.0,£ 7236.8351195000005,dresses ,,5848,Direct Deposit
+37,16/08/20,10508,Mobile,,Female,12.0,₹ 102369.19747878,Cardigan,4 star,9566,Mobile
+38,29/08/20,10509,Creditcard,Express,Unspecified,9.0,"$2,591.72 ",Jeans,,7352,Creditcard
+39,16/08/20,10510,Prepaid Card,Mail,Female,20.0,₹ 217387.35303316,dresses ,1 start,7287,Prepaid Card
+40,13/08/20,10511,Mobile,Economy,Unspecified,9.0,₹ 514514.66367266,Dresses,4 star,6195,Mobile
+41,2/8/2020 0:00,10512,Creditcard,Economy,Male,20.0,£ 5925.050872750001,pantas,2star,6416,Creditcard
+42,2/8/2020 0:00,10513,Mobile Payment,Mail,Male,17.0,"$6,930.87 ",Coats/Jackets,1 start,6535,Mobile Payment
+43,14/08/20,10514,Credit Card,Express,Unspecified,1321.0,"€ 7,261.79",dresses ,5 star,5567,Credit Card
+44,9/8/2020 0:00,10515,,Express,Male,16.0,£ 1442.5028307500002,Hats,4 star,8129,
+45,25/08/20,10516,,Normal,Male,14.0,₹ 167727.12548098,Jeans,3 star,7033,
+46,29/08/20,10517,Credit Card,Normal,Female,7.0,"$3,124.78 ",Hats,5 star,7532,Credit Card
+47,21/08/20,10518,Creditcard,Normal,Female,14.0,"€ 2,773.90",Jeans,2star,7285,Creditcard
+48,20/08/20,10519,Ewallet,Normal,Unspecified,18.0,₹ 159529.19686752,Jeans,2star,7678,Ewallet
+49,6/8/2020 0:00,10520,Ewallet,Normal,Unspecified,7.0,"$1,012.61 ",Hats,4 star,5620,Ewallet
+50,4/8/2020 0:00,10521,Directdeposit,Normal,Unspecified,10.0,₹ 325505.3302182,Shirts/Tops,4 star,7082,Directdeposit
+51,12/8/2020 0:00,10522,Credit Card,Mail,Female,9.0,"$1,813.71 ",coates,1 start,9686,Credit Card
+52,30/08/20,10523,Mobile Payment,Express,Unspecified,10.0,₹ 676891.7428365399,Coats/Jackets,1 start,6530,Mobile Payment
+53,26/08/20,10524,Direct Deposit,Normal,Male,5.0,₹ 442385.73497213994,Dresses,3 star,6654,Direct Deposit
+54,30/08/20,10525,Direct Deposit,Economy,Female,12.0,£ 1513.049488,Cardigan,5 star,6081,Direct Deposit
+55,5/8/2020 0:00,10526,Direct Deposit,Normal,Unspecified,10.0,₹ 321706.90933682,Jeans,2 star,9482,Direct Deposit
+56,1/8/2020 0:00,10527,Creditcard,Mail,Male,11.0,£ 5795.0345085,Dresses,1 start,8880,Creditcard
+57,12/8/2020 0:00,10528,Creditcard,Economy,Unspecified,16.0,₹ 377596.03938408,Shirts/Tops,1 start,7484,Creditcard
+58,2/8/2020 0:00,10529,Creditcard,Mail,Unspecified,8.0,£ 6029.319179500001,coates,2 star,5498,Creditcard
+59,17/08/20,10530,Cash,Economy,Female,3113.0,"$8,670.69 ",Cardigan,4 star,6930,Cash
+60,30/08/20,10531,Direct Deposit,Normal,Unspecified,18.0,"€ 5,597.06",Pants,1 start,8535,Direct Deposit
+61,21/08/20,10532,Credit Card,Economy,Female,8.0,"€ 4,773.37",Jeans,2star,8399,Credit Card
+62,4/8/2020 0:00,10533,Prepaid Card,Normal,Unspecified,10.0,£ 6329.0235485,coates,5 star,8349,Prepaid Card
+63,1/8/2020 0:00,10534,Creditcard,Normal,Male,9.0,₹ 443946.32070874,Shirts/Tops,4 star,8046,Creditcard
+64,8/8/2020 0:00,10535,Cash,Mail,Male,8.0,"€ 4,853.44",Cardigan,5 star,5080,Cash
+65,31/08/20,10536,Prepaid Card,Express,Male,10.0,"$7,072.56 ",Jeans,,6878,Prepaid Card
+66,18/08/20,10537,Cash,Normal,Male,6.0,"$5,836.06 ",Coats/Jackets,2star,9832,Cash
+67,12/8/2020 0:00,10538,Direct Deposit,Express,Female,16.0,£ 3365.6864065000004,Cardigan,2 star,9925,Direct Deposit
+68,2/8/2020 0:00,10539,Credit Card,Normal,Female,12.0,"$1,842.56 ",pantas,4 star,7374,Credit Card
+69,12/8/2020 0:00,10540,Directdeposit,Express,Male,14.0,£ 2419.99272275,dresses ,1 start,9570,Directdeposit
+70,24/08/20,10541,Creditcard,Economy,Unspecified,11.0,"€ 4,487.03",Shirts/Tops,5 star,9015,Creditcard
+71,20/08/20,10542,Cash,Mail,Male,3132.0,₹ 708227.40839738,Hats,2star,9157,Cash
+72,30/08/20,10543,Mobile,Mail,Female,19.0,"$6,425.44 ",Coats/Jackets,4 star,7100,Mobile
+73,28/08/20,10544,Ewallet,Mail,Male,14.0,"$5,382.49 ",Cardigan,1 start,7547,Ewallet
+74,25/08/20,10545,Credit Card,Express,Female,20.0,"€ 6,765.48",Shirts/Tops,2star,8819,Credit Card
+75,6/8/2020 0:00,10546,Ewallet,Express,Male,18.0,"€ 3,383.62",coates,4 star,6841,Ewallet
+76,28/08/20,10547,Direct Deposit,Express,Unspecified,12.0,"$9,430.45 ",Hats,3 star,6040,Direct Deposit
+77,26/08/20,10548,Creditcard,Mail,Male,19.0,"€ 1,354.18",dresses ,3 star,5485,Creditcard
+78,18/08/20,10549,Prepaid Card,Mail,Unspecified,10.0,£ 4060.4158125000004,pantas,3 star,8745,Prepaid Card
+79,18/08/20,10550,Credit Card,Normal,Unspecified,13.0,"$2,904.03 ",Dresses,5 star,9365,Credit Card
+80,21/08/20,10551,Directdeposit,Normal,Male,16.0,£ 5817.31677175,Hats,2star,8734,Directdeposit
+81,14/08/20,10552,Cash,Express,Male,7.0,"$4,965.25 ",Shirts/Tops,5 star,9965,Cash
+82,23/08/20,10553,Credit Card,Express,Unspecified,5.0,₹ 388459.65750934,Shirts/Tops,3 star,8175,Credit Card
+83,16/08/20,10554,Direct Deposit,Economy,Male,11.0,"€ 1,943.27",coates,4 star,9303,Direct Deposit
+84,23/08/20,10555,Prepaid Card,Mail,Female,14.0,"$2,528.42 ",coates,1 start,8399,Prepaid Card
+85,8/8/2020 0:00,10556,Prepaid Card,Normal,Male,14.0,"$9,962.44 ",dresses ,1 start,7502,Prepaid Card
+86,8/8/2020 0:00,10557,Ewallet,Express,Female,7.0,"€ 5,241.53",coates,1 start,6838,Ewallet
+87,31/08/20,10558,Credit Card,Normal,Unspecified,11.0,₹ 234895.78095268,coates,5 star,7007,Credit Card
+88,31/08/20,10558,Credit Card,Normal,Unspecified,11.0,₹ 234895.78095268,coates,5 star,7007,Credit Card
+89,31/08/20,10558,Credit Card,Normal,Unspecified,11.0,₹ 234895.78095268,coates,5 star,7007,Credit Card
+90,23/08/20,10561,Directdeposit,Mail,Male,18.0,"$7,891.05 ",dresses ,1 start,7607,Directdeposit
+91,3/8/2020 0:00,10562,Creditcard,Express,Male,8.0,£ 4114.86427075,coates,2star,5858,Creditcard
+92,8/8/2020 0:00,10563,Credit Card,Mail,Male,9.0,₹ 617567.83078528,Shirts/Tops,3 star,7066,Credit Card
+93,18/08/20,10564,Creditcard,Normal,Female,5.0,₹ 325580.74608394003,Dresses,2star,9142,Creditcard
+94,23/08/20,10565,Cash,Mail,Male,7.0,"€ 7,708.86",coates,1 start,6328,Cash
+95,4/8/2020 0:00,10566,Prepaid Card,Express,Female,5.0,£ 1148.1217405,Coats/Jackets,2star,6090,Prepaid Card
+96,16/08/20,10567,Mobile,Normal,Unspecified,13.0,₹ 127655.91325387999,coates,5 star,9433,Mobile
+97,25/08/20,10568,Credit Card,Normal,Female,10.0,₹ 577078.47118378,pantas,3 star,7354,Credit Card
+98,26/08/20,10569,Directdeposit,Economy,Male,-2131.0,£ 4118.0053827500005,Pants,5 star,5200,Directdeposit
+99,29/08/20,10570,Credit Card,Mail,Unspecified,6.0,£ 6232.343745500001,Jeans,1 start,7807,Credit Card
